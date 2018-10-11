@@ -1,0 +1,10 @@
+packages: [
+  "atom-elixir",
+  "atom-ide-ui",
+  "elm-format",
+  "elmjutsu",
+  "language-elixir",
+  "language-elm",
+  "relative-numbers",
+  "vim-mode-plus"
+]
