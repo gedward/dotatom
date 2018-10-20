@@ -1,0 +1,11 @@
+'atom-workspace':
+  'space f': 'fuzzy-finder:toggle-file-finder'
+  'ctrl-[': 'core:cancel'
+
+'atom-text-editor.vim-mode-plus:not(.insert-mode)':
+  'space w': 'core:save'
+  'ctrl-h': 'window:focus-pane-on-left'
+  'ctrl-l': 'window:focus-pane-on-right'
+  'ctrl-j': 'window:focus-pane-on-down'
+  'ctrl-k': 'window:focus-pane-on-up'
+  'space q': 'core:close'
